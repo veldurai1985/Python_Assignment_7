@@ -15,9 +15,9 @@ You will gain proficiency in the following tasks:
 
 ### Files
 
-[Time-Series Starter Notebook](time_series_analysis.ipynb)
+[Time-Series Notebook](time_series_analysis.ipynb)
 
-[Linear Regression Starter Notebook](regression_analysis.ipynb)
+[Linear Regression Notebook](regression_analysis.ipynb)
 
 - - -
 
@@ -50,6 +50,3 @@ P-values for GARCH and volatility forecasts tend to be much lower than our ARMA/
 - Out-of-Sample Root Mean Squared Error (RMSE): 0.6445805658569028
 
 The out-of-sample RMSE is lower than the in-sample RMSE. RMSE is typically lower for training data, but is higher in this case.
-
-
-
